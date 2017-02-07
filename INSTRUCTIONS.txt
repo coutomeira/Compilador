@@ -1,0 +1,9 @@
+Compilar o programa:
+
+make clean && make && ./main matlab.txt
+
+Ver o resultado:
+
+cat mips.txt
+
+Nota: Um ficheiro matlab.txt é dado como exemplo
